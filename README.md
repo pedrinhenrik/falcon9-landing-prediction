@@ -24,6 +24,23 @@ This project aims to predict the successful landing of the Falcon 9 first stage 
 - Created an interactive dashboard and map
 - Achieved 84% accuracy with SVM
 
+## 🖼️ Dashboard Screenshots
+
+### Full Dashboard View
+![Full Dashboard](dash_app_screenshots/dashboard_full_view.png)
+
+### Pie Chart - All Sites
+![Pie All Sites](dash_app_screenshots/pie_all_sites.png)
+
+### Pie Chart - One Site Selected
+![Pie Specific Site](dash_app_screenshots/pie_specific_site.png)
+
+### Scatter Plot - Full Payload Range
+![Scatter Full](dash_app_screenshots/scatter_full_payload.png)
+
+### Scatter Plot - Filtered Payload (2000–6000 kg)
+![Scatter Filtered](dash_app_screenshots/scatter_filtered_payload.png)
+
 ## 📎 Final Presentation (PDF)
 🔗 [View the presentation here](./presentation/Presentation.pdf)
 
