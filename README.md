@@ -25,6 +25,6 @@ This project aims to predict the successful landing of the Falcon 9 first stage 
 - Achieved 84% accuracy with SVM
 
 ## 📎 Final Presentation (PDF)
-🔗 [View the presentation here](./presentation/Falcon9_Presentation.pdf)
+🔗 [View the presentation here](./presentation/Presentation.pdf)
 
 ---
