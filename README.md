@@ -33,7 +33,7 @@ This project aims to predict the successful landing of the Falcon 9 first stage 
 ![Pie All Sites](dash_app_screenshots/pie_all_sites.png)
 
 ### Pie Chart - One Site Selected
-![Pie Specific Site](dash_app_screenshots/pie_specific_site.png)
+![Pie Specific Site](dash_app_screenshots/pie_specific_site.png.png)
 
 ### Scatter Plot - Full Payload Range
 ![Scatter Full](dash_app_screenshots/scatter_full_payload.png)
